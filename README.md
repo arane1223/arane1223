@@ -5,7 +5,7 @@
 - Изучаю искусственный интеллект 
 ___
 
-### Технологический стек:
+## Технологический стек:
 <p>
 <img src="icons/Java.svg" height="40" width="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" height="40" width="40" />
