@@ -6,6 +6,7 @@
 ___
 
 ### Технологический стек:
+<p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height="40" width="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" height="40" width="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="40" width="40" />
@@ -18,3 +19,4 @@ ___
 <img src="icons/AllureTestOps.svg" height="40" width="40" />
 <img src="icons/Telegram.svg" height="40" width="40" />
 <img src="icons/Jira.svg" height="40" width="40" />
+<p>
