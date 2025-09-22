@@ -8,13 +8,13 @@
 ## Технологический стек:
 <p>
 <img src="icons/Java.svg" height="40" width="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" height="40" width="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="40" width="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg" height="40" width="40" />
+<img src="icons/Intelij_IDEA.svg" height="40" width="40" />
+<img src="icons/GitHub.svg" height="40" width="40" />
+<img src="icons/JUnit5.svg" height="40" width="40" />
 <img src="icons/Selenide.svg" height="40" width="40" />
 <img src="icons/Selenoid.svg" height="40" width="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-original.svg" height="40" width="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" height="40" width="40" />
+<img src="icons/Gradle.svg" height="40" width="40" />
+<img src="icons/Jenkins.svg" height="40" width="40" />
 <img src="icons/Allure_Report.svg" height="40" width="40" />
 <img src="icons/AllureTestOps.svg" height="40" width="40" />
 <img src="icons/Telegram.svg" height="40" width="40" />
