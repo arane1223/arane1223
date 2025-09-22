@@ -1,5 +1,4 @@
 ## Привет! Меня зовут Сергей 👋
-
 - **QA Engineer** (Junior Automation, Java)  
 - Обучаюсь в [QA.GURU](https://qa.guru/) — школе по автоматизации тестирования
 - Изучаю искусственный интеллект 
@@ -20,3 +19,6 @@
 <img src="icons/Telegram.svg" width="50" />
 <img src="icons/Jira.svg" width="50" />
 </p>
+
+## Контакты:
+- Telegram: [@sergey_gluhov](https://t.me/sergey_gluhov)
