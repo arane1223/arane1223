@@ -6,7 +6,7 @@
 
 
 ## Технологический стек:
-<p>
+<p align="center">
 <img src="icons/Java.svg" width="50" />
 <img src="icons/Intelij_IDEA.svg" width="50" />
 <img src="icons/GitHub.svg" width="50" />
@@ -19,4 +19,4 @@
 <img src="icons/AllureTestOps.svg" width="50" />
 <img src="icons/Telegram.svg" width="50" />
 <img src="icons/Jira.svg" width="50" />
-<p>
+</p>
