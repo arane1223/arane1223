@@ -5,6 +5,7 @@
 
 ## Проекты:
 - [UI тесты на DEMOQA](https://github.com/arane1223/demoqa-Jenkins-HW11)
+- [Игра «Крестики-нолики» с юнит-тестами](https://github.com/arane1223/TicTacToe)
 
 ## Технологический стек:
 <p align="center">
@@ -24,3 +25,4 @@
 
 ## Контакты:
 - Telegram: [@sergey_gluhov](https://t.me/sergey_gluhov)
+- ВКонтакте: [sergey_gluhov](https://vk.com/sergey_gluhov)
