@@ -21,6 +21,7 @@
 <img src="icons/AllureTestOps.svg" width="50" />
 <img src="icons/Telegram.svg" width="50" />
 <img src="icons/Jira.svg" width="50" />
+<img src="icons/rest-assured.png" width="50" />
 </p>
 
 ## Контакты:
