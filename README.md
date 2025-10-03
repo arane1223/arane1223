@@ -9,6 +9,8 @@
 ## Проекты:
 - [UI тесты на DEMOQA](https://github.com/arane1223/demoqa-Jenkins-HW11)
 - [Игра «Крестики-нолики» с юнит-тестами](https://github.com/arane1223/TicTacToe)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=arane1223&repo=demoqa-Jenkins-HW11)](https://github.com/arane1223/demoqa-Jenkins-HW11)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=arane1223&repo=TicTacToe)](https://github.com/arane1223/TicTacToe)
 
 ## Технологический стек:
 <p align="center">
