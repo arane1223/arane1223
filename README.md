@@ -8,6 +8,7 @@
 
 ## Проекты:
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=arane1223&repo=demoqa-Jenkins-HW11)](https://github.com/arane1223/demoqa-Jenkins-HW11)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=arane1223&repo=UI-petrolplus)](https://github.com/arane1223/UI-petrolplus)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=arane1223&repo=TicTacToe)](https://github.com/arane1223/TicTacToe)
 
 ## Технологический стек:
