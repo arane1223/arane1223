@@ -38,4 +38,4 @@ jobs:
           build_dir: dist
           repo: arane1223/arane1223
         env:
-          GITHUB_TOKEN: ${{ secrets.ARANE1223_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
