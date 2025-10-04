@@ -33,3 +33,6 @@
 - ВКонтакте: [sergey_gluhov](https://vk.com/sergey_gluhov)
 
 ![GitHub Snake Dark](https://raw.githubusercontent.com/arane1223/arane1223/output/github-contribution-grid-snake-dark.svg)
+
+[//]: # (![GitHub Snake Light]&#40;https://raw.githubusercontent.com/arane1223/arane1223/output/github-contribution-grid-snake.svg&#41;)
+[//]: # (![GitHub Snake Dark]&#40;https://raw.githubusercontent.com/arane1223/arane1223/output/github-contribution-grid-snake-dark.svg&#41;)
