@@ -5,7 +5,7 @@ on:
   schedule:
     - cron: "0 */24 * * *"
 
-  # запуск вручную
+  # запуск вручную через вкладку Actions
   workflow_dispatch:
 
   # запуск при пуше в main
@@ -21,8 +21,8 @@ jobs:
     timeout-minutes: 5
 
     steps:
-      # создаёт анимацию с графом коммитов пользователя arane1223
-      - name: generate github-contribution-grid-snake.svg
+      # создаёт SVG-анимацию из графа коммитов пользователя arane1223
+      - name: Generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: arane1223
@@ -30,12 +30,11 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      # публикует результат в репозиторий arane1223/arane1223 (в ветку output)
-      - name: push github-contribution-grid-snake.svg to arane1223 repo
+      # публикует SVG в ветку output (для GitHub Pages)
+      - name: Push github-contribution-grid-snake.svg to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
-          repo: arane1223/arane1223
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
