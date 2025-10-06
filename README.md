@@ -32,7 +32,8 @@
 - Telegram: [@sergey_gluhov](https://t.me/sergey_gluhov)
 - ВКонтакте: [sergey_gluhov](https://vk.com/sergey_gluhov)
 
-![GitHub Snake Dark](https://raw.githubusercontent.com/arane1223/arane1223/output/github-contribution-grid-snake-dark.svg)
-
-[//]: # (![GitHub Snake Light]&#40;https://raw.githubusercontent.com/arane1223/arane1223/output/github-contribution-grid-snake.svg&#41;)
-[//]: # (![GitHub Snake Dark]&#40;https://raw.githubusercontent.com/arane1223/arane1223/output/github-contribution-grid-snake-dark.svg&#41;)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arane1223/arane1223/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arane1223/arane1223/output/github-contribution-grid-snake.svg">
+  <img alt="github-snake" src="https://raw.githubusercontent.com/arane1223/arane1223/output/github-contribution-grid-snake.svg">
+</picture>
