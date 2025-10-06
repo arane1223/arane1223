@@ -54,8 +54,8 @@
 
 ### 📬 Контакты
 
-- 💬 Telegram: [@sergey_gluhov](https://t.me/sergey_gluhov)
-- 🌐 ВКонтакте: [sergey_gluhov](https://vk.com/sergey_gluhov)
+- Telegram: [@sergey_gluhov](https://t.me/sergey_gluhov)
+- ВКонтакте: [sergey_gluhov](https://vk.com/sergey_gluhov)
 
 ---
 
