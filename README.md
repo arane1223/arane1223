@@ -49,6 +49,7 @@
   <img src="icons/Telegram.svg" width="50" title="Telegram" />
   <img src="icons/Jira.svg" width="50" title="Jira" />
   <img src="icons/rest-assured.png" width="50" title="REST Assured" />
+  <img src="icons/lombok.png" width="50" title="REST Assured" />
 </p>
 
 ---
