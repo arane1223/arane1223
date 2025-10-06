@@ -18,8 +18,8 @@
 ### 📊 GitHub Статистика
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arane1223&show_icons=true&theme=radical" alt="GitHub stats" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=arane1223&theme=radical" alt="GitHub streak" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=arane1223&show_icons=true&theme=radical" alt="GitHub stats" />
+  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=arane1223&theme=radical" alt="GitHub streak" />
 </div>
 
 ---
