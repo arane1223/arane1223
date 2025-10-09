@@ -24,7 +24,7 @@
 
 ---
 
-### 🚀 Мои проекты
+### 🚀 Мои учебные проекты
 
 - [UI тесты на DEMOQA](https://github.com/arane1223/demoqa-Jenkins-HW11)
 - [API тесты на DEMOQA](https://github.com/arane1223/REST-API-DEMOQA)
