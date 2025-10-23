@@ -26,8 +26,10 @@
 
 ### 🚀 Мои учебные проекты
 
-- [UI тесты на DEMOQA](https://github.com/arane1223/demoqa-Jenkins-HW11)
-- [API тесты на DEMOQA](https://github.com/arane1223/REST-API-DEMOQA)
+- Проекты с автотестами на DEMOQA:
+  - [UI тесты](https://github.com/arane1223/demoqa-Jenkins-HW11)
+  - [API тесты](https://github.com/arane1223/REST-API-DEMOQA)
+  - [UI+API тесты](https://github.com/arane1223/UI-API-DEMOQA)
 - [UI тесты на petrolplus.ru](https://github.com/arane1223/UI-petrolplus)
 - [Игра «Крестики-нолики» с юнит-тестами](https://github.com/arane1223/TicTacToe)
 
