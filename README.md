@@ -48,6 +48,8 @@
   <img src="icons/Selenoid.svg" width="50" title="Selenoid" />
   <img src="icons/Gradle.svg" width="50" title="Gradle" />
   <img src="icons/Jenkins.svg" width="50" title="Jenkins" />
+</p>
+<p align="center">
   <img src="icons/Allure_Report.svg" width="50" title="Allure Report" />
   <img src="icons/AllureTestOps.svg" width="50" title="Allure TestOps" />
   <img src="icons/Telegram.svg" width="50" title="Telegram" />
