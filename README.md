@@ -9,7 +9,8 @@
 ### ⚙️ Немного обо мне
 
 - 🎯 Цель — стать сильным инженером по автоматизации тестирования
-- 📚 Углубляюсь в **Java (core и автотесты), Selenide, JUnit5, REST API, CI/CD (Jenkins, Allure, Selenoid)** и построение тестовой инфраструктуры
+- 📚 Углубляюсь в **Java (core и автотесты), Selenide, JUnit5, REST API, CI/CD (Jenkins, Allure, Selenoid)** и построение
+  тестовой инфраструктуры
 - 🤝 Открыт к интересным проектам и коллаборациям
 - 💡 Активно развиваюсь в сторону AI в тестировании и обучении
 
@@ -27,9 +28,10 @@
 ### 🚀 Мои учебные проекты
 
 - Проекты с автотестами на DEMOQA:
-  - [UI тесты](https://github.com/arane1223/demoqa-Jenkins-HW11)
-  - [API тесты](https://github.com/arane1223/REST-API-DEMOQA)
-  - [UI+API тесты](https://github.com/arane1223/UI-API-DEMOQA)
+    - [UI тесты](https://github.com/arane1223/demoqa-Jenkins-HW11)
+    - [API тесты](https://github.com/arane1223/REST-API-DEMOQA)
+    - [UI+API тесты](https://github.com/arane1223/UI-API-DEMOQA)
+- [UI автотесты для мобильного приложения Wikipedia](https://github.com/arane1223/Mobile-Wiki)
 - [UI тесты на petrolplus.ru](https://github.com/arane1223/UI-petrolplus)
 - [Игра «Крестики-нолики» с юнит-тестами](https://github.com/arane1223/TicTacToe)
 
@@ -51,7 +53,9 @@
   <img src="icons/Telegram.svg" width="50" title="Telegram" />
   <img src="icons/Jira.svg" width="50" title="Jira" />
   <img src="icons/rest-assured.png" width="50" title="REST Assured" />
-  <img src="icons/lombok.png" width="50" title="REST Assured" />
+  <img src="icons/lombok.png" width="50" title="Lombok" />
+  <img src="icons/appium.png" width="70" title="appium" />
+  <img src="icons/browserstack-icon.svg" width="50" title="browserstack" />
 </p>
 
 ---
