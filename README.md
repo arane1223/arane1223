@@ -40,24 +40,22 @@
 ### 🧰 Технологический стек
 
 <p align="center">
-  <img src="icons/Java.svg" width="50" title="Java" />
-  <img src="icons/Intelij_IDEA.svg" width="50" title="IntelliJ IDEA" />
-  <img src="icons/GitHub.svg" width="50" title="GitHub" />
-  <img src="icons/JUnit5.svg" width="50" title="JUnit5" />
-  <img src="icons/Selenide.svg" width="50" title="Selenide" />
-  <img src="icons/Selenoid.svg" width="50" title="Selenoid" />
-  <img src="icons/Gradle.svg" width="50" title="Gradle" />
-  <img src="icons/Jenkins.svg" width="50" title="Jenkins" />
-</p>
-<p align="center">
-  <img src="icons/Allure_Report.svg" width="50" title="Allure Report" />
-  <img src="icons/AllureTestOps.svg" width="50" title="Allure TestOps" />
-  <img src="icons/Telegram.svg" width="50" title="Telegram" />
-  <img src="icons/Jira.svg" width="50" title="Jira" />
-  <img src="icons/rest-assured.png" width="50" title="REST Assured" />
-  <img src="icons/lombok.png" width="50" title="Lombok" />
-  <img src="icons/appium.png" width="70" title="appium" />
-  <img src="icons/browserstack-icon.svg" width="50" title="browserstack" />
+  <img src="icons/Java.svg" width="40" title="Java" />
+  <img src="icons/Intelij_IDEA.svg" width="40" title="IntelliJ IDEA" />
+  <img src="icons/GitHub.svg" width="40" title="GitHub" />
+  <img src="icons/JUnit5.svg" width="40" title="JUnit5" />
+  <img src="icons/Selenide.svg" width="40" title="Selenide" />
+  <img src="icons/Selenoid.svg" width="40" title="Selenoid" />
+  <img src="icons/Gradle.svg" width="40" title="Gradle" />
+  <img src="icons/Jenkins.svg" width="40" title="Jenkins" />
+  <img src="icons/Allure_Report.svg" width="40" title="Allure Report" />
+  <img src="icons/AllureTestOps.svg" width="40" title="Allure TestOps" />
+  <img src="icons/Telegram.svg" width="40" title="Telegram" />
+  <img src="icons/Jira.svg" width="40" title="Jira" />
+  <img src="icons/rest-assured.png" width="40" title="REST Assured" />
+  <img src="icons/lombok.png" width="40" title="Lombok" />
+  <img src="icons/appium.png" width="60" title="appium" />
+  <img src="icons/browserstack-icon.svg" width="40" title="browserstack" />
 </p>
 
 ---
