@@ -27,13 +27,22 @@
 
 ### 🚀 Мои учебные проекты
 
-- Проекты с автотестами на DEMOQA:
-    - [UI тесты](https://github.com/arane1223/demoqa-Jenkins-HW11)
-    - [API тесты](https://github.com/arane1223/REST-API-DEMOQA)
-    - [UI+API тесты](https://github.com/arane1223/UI-API-DEMOQA)
-- [UI автотесты для мобильного приложения Wikipedia](https://github.com/arane1223/Mobile-Wiki)
-- [UI тесты на petrolplus.ru](https://github.com/arane1223/UI-petrolplus)
-- [Игра «Крестики-нолики» с юнит-тестами](https://github.com/arane1223/TicTacToe)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arane1223&repo=final-project-demoqa)](https://github.com/arane1223/final-project-demoqa)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arane1223&repo=Mobile-Wiki)](https://github.com/arane1223/Mobile-Wiki)
+
+[//]: # (- Проекты с автотестами на DEMOQA:)
+
+[//]: # (    - [UI тесты]&#40;https://github.com/arane1223/demoqa-Jenkins-HW11&#41;)
+
+[//]: # (    - [API тесты]&#40;https://github.com/arane1223/REST-API-DEMOQA&#41;)
+
+[//]: # (    - [UI+API тесты]&#40;https://github.com/arane1223/UI-API-DEMOQA&#41;)
+
+[//]: # (- [UI автотесты для мобильного приложения Wikipedia]&#40;https://github.com/arane1223/Mobile-Wiki&#41;)
+
+[//]: # (- [UI тесты на petrolplus.ru]&#40;https://github.com/arane1223/UI-petrolplus&#41;)
+
+[//]: # (- [Игра «Крестики-нолики» с юнит-тестами]&#40;https://github.com/arane1223/TicTacToe&#41;)
 
 ---
 
