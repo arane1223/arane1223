@@ -19,8 +19,8 @@
 ### 📊 GitHub Статистика
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=arane1223&show_icons=true&theme=radical" alt="GitHub stats" />
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=arane1223&theme=radical" alt="GitHub streak" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=arane1223&show_icons=true&theme=dark" alt="GitHub stats" />
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=arane1223&theme=dark" alt="GitHub streak" />
 </div>
 
 ---
@@ -29,10 +29,10 @@
 
 <div align="center">
   <a href="https://github.com/arane1223/final-project-demoqa">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arane1223&repo=final-project-demoqa&theme=radical" alt="final-project-demoqa" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arane1223&repo=final-project-demoqa&theme=dark" alt="final-project-demoqa" />
   </a>
   <a href="https://github.com/arane1223/Mobile-Wiki">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arane1223&repo=Mobile-Wiki&theme=radical" alt="Mobile-Wiki" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arane1223&repo=Mobile-Wiki&theme=dark" alt="Mobile-Wiki" />
   </a>
 </div>
 
