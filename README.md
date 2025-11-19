@@ -27,8 +27,14 @@
 
 ### 🚀 Мои учебные проекты
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arane1223&repo=final-project-demoqa&theme=radical)](https://github.com/arane1223/final-project-demoqa)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arane1223&repo=Mobile-Wiki&theme=radical)](https://github.com/arane1223/Mobile-Wiki)
+<div align="center">
+  <a href="https://github.com/arane1223/final-project-demoqa">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arane1223&repo=final-project-demoqa&theme=radical" alt="final-project-demoqa" />
+  </a>
+  <a href="https://github.com/arane1223/Mobile-Wiki">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arane1223&repo=Mobile-Wiki&theme=radical" alt="Mobile-Wiki" />
+  </a>
+</div>
 
 [//]: # (- Проекты с автотестами на DEMOQA:)
 
