@@ -29,10 +29,10 @@
 
 <div align="center">
   <a href="https://github.com/arane1223/final-project-demoqa">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arane1223&repo=final-project-demoqa&theme=dark" alt="final-project-demoqa" />
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/pin/?username=arane1223&repo=final-project-demoqa&theme=dark" alt="final-project-demoqa" />
   </a>
   <a href="https://github.com/arane1223/Mobile-Wiki">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arane1223&repo=Mobile-Wiki&theme=dark" alt="Mobile-Wiki" />
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/pin/?username=arane1223&repo=Mobile-Wiki&theme=dark" alt="Mobile-Wiki" />
   </a>
 </div>
 
