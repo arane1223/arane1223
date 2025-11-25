@@ -34,6 +34,9 @@
   <a href="https://github.com/arane1223/Mobile-Wiki">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=arane1223&repo=Mobile-Wiki&theme=dark" alt="Mobile-Wiki" />
   </a>
+  <a href="https://github.com/arane1223/rest-backend">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arane1223&repo=rest-backend&theme=dark" alt="rest-backend" />
+  </a>
 </div>
 
 [//]: # (- Проекты с автотестами на DEMOQA:)
